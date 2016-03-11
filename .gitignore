@@ -1,0 +1,8 @@
+# Ignore System Files
+.DS_Store
+
+# Ignore Install Dependencies
+node_modules
+
+# Ingnore Compiled Files
+bundle.js
